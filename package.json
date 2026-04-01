@@ -1,0 +1,12 @@
+{
+  "name": "az-webapp-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World app for Azure App Service demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
