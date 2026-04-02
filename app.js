@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Hello, World! 🌍</h1>
+        <h1>Hello, AZ-104! 🌍</h1>
         <p>Running on Azure App Service</p>
         <p><small>Node.js ${process.version}</small></p>
       </div>
